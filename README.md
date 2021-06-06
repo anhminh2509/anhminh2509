@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Minh
-- 👀 I’m interested in Linux and database
+- 👀 I’m interested in DevOps and Linux
 - 🌱 I’m currently learning Oracle database on Oracle Linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Great to discuss about the effective methods and resources to study DevOps.
 - 📫 How to reach me: https://t.me/anhminh2509
 
 <!---
